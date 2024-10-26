@@ -1,6 +1,6 @@
 self.__uv$config = {
   prefix: '/static/pa/',
-  bare: 'https://pabare.lgbtq.tel/bare/',  
+  bare: 'https://https://wix.docin60.com/fq/bare/',  
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: '/static/uv/uv.handler.js',
